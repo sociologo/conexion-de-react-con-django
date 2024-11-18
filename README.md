@@ -1,1 +1,1 @@
-# conexion de react con django
+# Conexión de react con django
